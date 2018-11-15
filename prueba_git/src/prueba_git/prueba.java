@@ -1,5 +1,5 @@
 
-package prueba_git;
+package prueba_git_raul;
 
 import java.util.Scanner;
 
